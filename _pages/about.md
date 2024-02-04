@@ -20,7 +20,7 @@ Currently, I am a postdoctoral fellow at the **Simula Research Laboratory** in O
 + **B.S.**, Physics, University of Pavia, 2013
 
 ### Research interests
-+ **Radiative transfer** of polarized radiation, performing large 3D simulations from MHD models to better understand Sun magnetism.
++ **Polarized radiative transfer**, performing large 3D simulations from MHD models to better understand Sun magnetism.
 + **Cell-by-cell models** to efficiently simulate cellular dynamics at the micron scale in the brain.
 + **Numerical Linear Algebra** and the analysis of spectral properties of matrix sequences, with application to fast solvers. 
 + **High Performance Computing** and design of scalable multilevel solutions for discretized PDEs.
