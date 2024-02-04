@@ -1,24 +1,23 @@
-- title: "Globally convergent multilevel training of deep residual networks"
-  year: 2023
+- title: "Modeling excitable cells with the EMI equations: spectral analysis and iterative solution strategy"
+  year: 2024
   type: journal
-  label: Kopanicakova_2021g
+  label: Benedusi_EMI
   image: 
   description: 
-  authors: A. Kopaničáková,  R. Krause
+  authors: P. Benedusi, P. Ferrari, M.E. Rognes, S. Serra-Capizzano
   link_pre:
-    url: https://arxiv.org/pdf/2107.07572.pdf
-    display: arXiv:2107.07572 (2023)
+    url: 
+    display: 
   link_main:
-    url: https://doi.org/10.1137/21M1434076
-    display: SIAM Journal on Scientific Computing
+    url: https://link.springer.com/content/pdf/10.1007/s10915-023-02449-2.pdf
+    display: Journal of Scientific Computing
   bibtex: |
-        @article{Kopanicakova_2021g,
-          author  = {Kopani{\v c}{\'a}kov{\'a},  Alena and Krause, Rolf},
-          title = {{G}lobally {C}onvergent {M}ultilevel {T}raining of {D}eep {R}esidual {N}etworks},
-          journal = {SIAM Journal on Scientific Computing},
-          volume = {0},
-          number = {0},
-          pages = {S254-S280},
-          doi = {10.1137/21M1434076},
-          year = {2022},
-        }        
+        @article{benedusi2023EMI,
+  title={Modeling excitable cells with the {EMI} equations: spectral analysis and iterative solution strategy},
+  author={Benedusi, Pietro and Ferrari, Paola and Rognes, Mrie and Serra-Capizzano , Stefano},
+journal={Journal of Scientific Computing},
+  volume={98},
+  number={3},
+  pages={58},
+  year={2024}
+  }    
