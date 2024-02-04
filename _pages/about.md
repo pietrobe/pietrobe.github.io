@@ -24,6 +24,6 @@ Currently, I am a postdoctoral fellow at the **Simula Research Laboratory** in O
 + **Cell-by-cell models** to efficiently simulate cellular dynamics at the micron scale in the brain.
 + **Numerical Linear Algebra** and the analysis of spectral properties of matrix sequences, with application to fast solvers. 
 + **High Performance Computing** and design of scalable multilevel solutions for discretized PDEs.
-+ + **Space-time** and Parallel-in-time methods.
++ **Space-time** and **Parallel-in-time** methods.
 
 
