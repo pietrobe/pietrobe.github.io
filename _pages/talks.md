@@ -1,5 +1,11 @@
-## Invited talks
+---
+layout: archive
+title: ""
+permalink: /talks/
+author_profile: true
+---
 
+### <span style="color:rgb(55, 161, 223)">Invited talks</span>
 + 1/2024 DD28, KAUST, Saudi Arabia.
 + 11/2023 SfN, Washington, USA.
 + 8/2023 ICIAM, Tokyo, Japan.
