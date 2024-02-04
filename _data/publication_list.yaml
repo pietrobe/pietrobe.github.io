@@ -4,10 +4,7 @@
   label: Benedusi_EMI
   image: 
   description: 
-  authors: P. Benedusi, P. Ferrari, M.E. Rognes, S. Serra-Capizzano
-  link_pre:
-    url: 
-    display: 
+  authors: P. Benedusi, P. Ferrari, M.E. Rognes, S. Serra-Capizzano  
   link_main:
     url: https://link.springer.com/content/pdf/10.1007/s10915-023-02449-2.pdf
     display: Journal of Scientific Computing
