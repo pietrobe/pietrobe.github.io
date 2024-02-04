@@ -13,7 +13,7 @@
     display: Journal of Scientific Computing
   bibtex: |
         @article{benedusi2023EMI,
-          title={Modeling excitable cells with the {EMI} equations, spectral analysis and iterative solution strategy},
+          title={Modeling excitable cells with the EMI equations: spectral analysis and iterative solution strategy},
           author={Benedusi, Pietro and Ferrari, Paola and Rognes, Mrie and Serra-Capizzano , Stefano},
           journal={Journal of Scientific Computing},
           volume={98},
