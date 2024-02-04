@@ -80,5 +80,5 @@ author_profile: true
 </ul>
 
 ### <span style="color:rgb(199, 21, 133)"> Thesis
-*  <a href="https://doc.rero.ch/record/330121/files/2020INFO021.pdf" style="color:rgb(199, 21, 133,0.75);"> Parallel Space-Time Multilevel Methods with Application to Electrophysiology.
+*  <a href="https://susi.usi.ch/usi/documents/319120" style="color:rgb(199, 21, 133,0.75);"> Parallel Space-Time Multilevel Methods with Application to Electrophysiology.
 Theory and Implementation </a> PhD thesis, Università della Svizzera italiana, 2020
