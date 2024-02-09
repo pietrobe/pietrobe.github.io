@@ -38,7 +38,7 @@
           pages={A68},
           year={2024},
           publisher={EDP Sciences}
-      }
+        }
 
 - title: "Assessment of the CRD approximation for the observer’s frame RIII redistribution matrix"
   year: 2024
@@ -46,7 +46,7 @@
   label: RT_Riva
   image: 
   description: 
-  authors: S.Riva, N. Guerreiro, G. Janett, D. Rossinelli, P. Benedusi, R. Krause, L. Belluzzi
+  authors: S. Riva, N. Guerreiro, G. Janett, D. Rossinelli, P. Benedusi, R. Krause, L. Belluzzi
   link_main:
     url: https://www.aanda.org/articles/aa/pdf/2024/02/aa48048-23.pdf
     display: Astronomy & Astrophysics
@@ -59,7 +59,7 @@
           pages={A87},
           year={2023},
           publisher={EDP Sciences}
-    }
+        }
 
 
 
