@@ -72,14 +72,14 @@
     url: https://www.sciencedirect.com/science/article/pii/S0021999123001080
     display: Journal of Computational Physics
   bibtex: |
-          @article{benedusi2023scalable,
-            title={Scalable matrix-free solver for 3D transfer of polarized radiation in stellar atmospheres},
-            author={Benedusi, Pietro and Riva, Simone and Zulian, Patrick and {\v{S}}t{\v{e}}p{\'a}n, Ji{\v{r}}{\'\i} and Belluzzi, Luca and Krause, Rolf},
-            journal={Journal of Computational Physics},
-            volume={479},
-            pages={112013},
-            year={2023},
-            publisher={Elsevier}
+        @article{benedusi2023scalable,
+          title={Scalable matrix-free solver for 3D transfer of polarized radiation in stellar atmospheres},
+          author={Benedusi, Pietro and Riva, Simone and Zulian, Patrick and {\v{S}}t{\v{e}}p{\'a}n, Ji{\v{r}}{\'\i} and Belluzzi, Luca and Krause, Rolf},
+          journal={Journal of Computational Physics},
+          volume={479},
+          pages={112013},
+          year={2023},
+          publisher={Elsevier}
         }
 
 
