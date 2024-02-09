@@ -28,7 +28,7 @@ author_profile: true
 
 </ul>
 
-### <span style="color:rgb(55, 161, 223)"> Publications in peer-reviewed journals and book chapters
+### <span style="color:rgb(55, 161, 223)"> Publications in peer-reviewed journals
 <!-- Generated from JabRef by PubList by Truong Nghiem at 11:44 on 2015.09.10. -->
 <ul class="biblist">
 
@@ -54,7 +54,7 @@ author_profile: true
 
 </ul>
 
-### <span style="color:rgb(55, 161, 223)"> Publications in peer-reviewed conference proceedings
+### <span style="color:rgb(55, 161, 223)"> Publications in peer-reviewed conference proceedings and book chapters
 <ul class="biblist">
 
 {% assign number_printed = 0 %}
