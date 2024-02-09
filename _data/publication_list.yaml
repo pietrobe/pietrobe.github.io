@@ -18,3 +18,51 @@
           pages={58},
           year={2024}
         }    
+
+- title: "Numerical solutions to linear transfer problems of polarized radiation IV. Efficient preconditioning in a physics-based framework"
+  year: 2024
+  type: journal
+  label: RT4
+  image: 
+  description: 
+  authors: G. Janett, P. Benedusi, F. Riva
+  link_main:
+    url: https://www.aanda.org/articles/aa/pdf/2024/02/aa48048-23.pdf
+    display: Astronomy & Astrophysics
+  bibtex: |
+        @article{janett2024numerical,
+          title={Numerical solutions to linear transfer problems of polarized radiation-IV. Efficient preconditioning in a physics-based framework},
+          author={Janett, Gioele and Benedusi, Pietro and Riva, Fabio},
+          journal={Astronomy \& Astrophysics},
+          volume={682},
+          pages={A68},
+          year={2024},
+          publisher={EDP Sciences}
+      }
+
+- title: "Assessment of the CRD approximation for the observer’s frame RIII redistribution matrix"
+  year: 2024
+  type: journal
+  label: RT_Riva
+  image: 
+  description: 
+  authors: S.Riva, N. Guerreiro, G. Janett, D. Rossinelli, P. Benedusi, R. Krause, L. Belluzzi
+  link_main:
+    url: https://www.aanda.org/articles/aa/pdf/2024/02/aa48048-23.pdf
+    display: Astronomy & Astrophysics
+  bibtex: |
+        @article{riva2023assessment,
+          title={Assessment of the CRD approximation for the observer’s frame RIII redistribution matrix},
+          author={Riva, Simone and Guerreiro, Nuno and Janett, Gioele and Rossinelli, Diego and Benedusi, Pietro and Krause, Rolf and Belluzzi, Luca},
+          journal={Astronomy \& Astrophysics},
+          volume={679},
+          pages={A87},
+          year={2023},
+          publisher={EDP Sciences}
+    }
+
+
+
+        
+
+
