@@ -82,6 +82,27 @@
           publisher={Elsevier}
         }
 
+- title: "Numerical solutions to linear transfer problems of polarized radiation III. Parallel preconditioned Krylov solver tailored for modeling PRD effects"
+  year: 2022
+  type: journal
+  label: AA_RT3
+  image: 
+  description: 
+  authors: P. Benedusi, G. Janett, S. Riva, R. Krause, L. Belluzzi
+  link_main:
+    url: https://www.aanda.org/articles/aa/pdf/2022/08/aa43059-22.pdf
+    display: Astronomy & Astrophysics
+  bibtex: |
+        @article{benedusi2022numerical,
+          title={Numerical solutions to linear transfer problems of polarized radiation-III. Parallel preconditioned Krylov solver tailored for modeling PRD effects},
+          author={Benedusi, Pietro and Janett, Gioele and Riva, Simone and Krause, Rolf and Belluzzi, Luca},
+          journal={Astronomy \& Astrophysics},
+          volume={664},
+          pages={A197},
+          year={2022},
+          publisher={EDP Sciences}
+        }
+
 
 
         
