@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-As a computational mathematician my focus is in numerical analysis and PDEs modelling through large-scale simulations, particularly in solar physics research, computational neuroscience, and electrophysiology. 
+I am a computational mathematician and my focus is in numerical analysis and PDEs modelling through large-scale simulations, particularly in solar physics research, computational neuroscience, and electrophysiology. 
 
 Currently, I am a postdoctoral fellow at the **Simula Research Laboratory** in Oslo.
 
