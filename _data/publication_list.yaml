@@ -1,4 +1,4 @@
-- title: "Modeling excitable cells with the EMI equations: spectral analysis and iterative solution strategy"
+  - title: "Modeling excitable cells with the EMI equations: spectral analysis and iterative solution strategy"
   year: 2024
   type: journal
   label: Benedusi_EMI
@@ -102,6 +102,56 @@
           year={2022},
           publisher={EDP Sciences}
         }
+
+- title: "Numerical solutions to linear transfer problems of polarized radiation II. Krylov methods and matrix-free implementation"
+  year: 2021
+  type: journal
+  label: AA_RT2
+  image: 
+  description: 
+  authors: P. Benedusi, G. Janett, S. Riva, L. Belluzzi,R. Krause,
+  link_main:
+    url: https://www.aanda.org/articles/aa/pdf/2021/11/aa41238-21.pdf
+    display: Astronomy & Astrophysics
+  bibtex: |
+        @article{benedusi2021numerical,
+          title={Numerical solutions to linear transfer problems of polarized radiation-{II}. {K}rylov methods and matrix-free implementation},
+          author={Benedusi, Pietro and Janett, Gioele and Belluzzi, Luca and Krause, Rolf},
+          journal={Astronomy \& Astrophysics},
+          volume={655},
+          pages={A88},
+          year={2021},
+          publisher={EDP Sciences}
+        }
+
+- title: "Numerical solutions to linear transfer problems of polarized radiation II. Krylov methods and matrix-free implementation"
+  year: 2021
+  type: journal
+  label: AA_RT1
+  image: 
+  description: 
+  authors: P. Benedusi, G. Janett, L. Belluzzi,R. Krause,
+  link_main:
+    url: https://www.aanda.org/articles/aa/pdf/2021/11/aa41237-21.pdf
+    display: Astronomy & Astrophysics
+  bibtex: |
+        @article{janett2021numerical,
+          title={Numerical solutions to linear transfer problems of polarized radiation-{I}. {A}lgebraic formulation and stationary iterative methods},
+          author={Janett, Gioele and Benedusi, Pietro and Belluzzi, Luca and Krause, Rolf},
+          journal={Astronomy \& Astrophysics},
+          volume={655},
+          pages={A87},
+          year={2021},
+          publisher={EDP Sciences}
+        }
+
+
+
+    
+
+
+
+
 
 
 
