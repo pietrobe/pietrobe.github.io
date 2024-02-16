@@ -82,7 +82,7 @@ analytics:
 author:
   name             : #""
   avatar           : "pietro-opta_small.png"
-  bio              : "Computational physicist"
+  bio              : #"Computational physicist"
   location         : "Oslo, Norway"
   employer         : "Simula"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
