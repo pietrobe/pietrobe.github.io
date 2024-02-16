@@ -115,7 +115,7 @@
     display: Astronomy & Astrophysics
   bibtex: |
         @article{benedusi2021numerical,
-          title={Numerical solutions to linear transfer problems of polarized radiation-{II}. {K}rylov methods and matrix-free implementation},
+          title={Numerical solutions to linear transfer problems of polarized radiation-II. Krylov methods and matrix-free implementation},
           author={Benedusi, Pietro and Janett, Gioele and Belluzzi, Luca and Krause, Rolf},
           journal={Astronomy \& Astrophysics},
           volume={655},
@@ -136,7 +136,7 @@
     display: Astronomy & Astrophysics
   bibtex: |
         @article{janett2021numerical,
-          title={Numerical solutions to linear transfer problems of polarized radiation-{I}. {A}lgebraic formulation and stationary iterative methods},
+          title={Numerical solutions to linear transfer problems of polarized radiation-I. Algebraic formulation and stationary iterative methods},
           author={Janett, Gioele and Benedusi, Pietro and Belluzzi, Luca and Krause, Rolf},
           journal={Astronomy \& Astrophysics},
           volume={655},
