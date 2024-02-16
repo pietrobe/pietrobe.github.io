@@ -124,7 +124,7 @@
           publisher={EDP Sciences}
         }
 
-- title: "Numerical solutions to linear transfer problems of polarized radiation II. Krylov methods and matrix-free implementation"
+- title: "Numerical solutions to linear transfer problems of polarized radiation I. Algebraic formulation and stationary iterative methods"
   year: 2021
   type: journal
   label: AA_RT1
