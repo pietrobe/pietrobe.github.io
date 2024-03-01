@@ -109,7 +109,7 @@
   label: AA_RT2
   image: 
   description: 
-  authors: P. Benedusi, G. Janett, S. Riva, L. Belluzzi,R. Krause,
+  authors: P. Benedusi, G. Janett, S. Riva, L. Belluzzi, R. Krause,
   link_main:
     url: https://www.aanda.org/articles/aa/pdf/2021/11/aa41238-21.pdf
     display: Astronomy & Astrophysics
@@ -145,9 +145,28 @@
           publisher={EDP Sciences}
         }
 
+- title: "An experimental comparison of a space-time multigrid method with PFASST for a reaction-diffusion problem"
+  year: 2021
+  type: journal
+  label: PFFAST
+  image: 
+  description: 
+  authors: P. Benedusi, M. Minion, R. Krause
+  link_main:
+    url: https://www.sciencedirect.com/science/article/pii/S0898122121002716
+    display: Computers & Mathematics with Applications
+  bibtex: |
+        @article{benedusi2021experimental,
+          title={An experimental comparison of a space-time multigrid method with PFASST for a reaction-diffusion problem},
+          author={Benedusi, Pietro and Minion, Michael L and Krause, Rolf},
+          journal={Computers \& Mathematics with Applications},
+          volume={99},
+          pages={162--170},
+          year={2021},
+          publisher={Elsevier}
+        }
 
 
-    
 
 
 
