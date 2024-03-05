@@ -166,8 +166,48 @@
           publisher={Elsevier}
         }
 
+- title: "Fast parallel solver for the space-time IgA-DG discretization of the diffusion equation"
+  year: 2021
+  type: journal
+  label: FAST_ST
+  image: 
+  description: 
+  authors: P. Benedusi, P. Ferrari, C. Garoni, R. Krause, S. Serra-Capizzano
+  link_main:
+    url: https://link.springer.com/article/10.1007/s10915-021-01567-z
+    display: Journal of Scientific Computing
+  bibtex: |
+        @article{benedusi2021fast,
+          title={Fast parallel solver for the space-time {IgA-DG} discretization of the diffusion equation},
+          author={Benedusi, Pietro and Ferrari, Paola and Garoni, Carlo and Krause, Rolf and Serra-Capizzano, Stefano},
+          journal={Journal of Scientific Computing},
+          volume={89},
+          number={1},
+          pages={1--21},
+          year={2021},
+          publisher={Springer}
+        }
 
-
+- title: "Space-time multilevel Monte Carlo methods and their application to cardiac electrophysiology}"
+  year: 2021
+  type: journal
+  label: UQ_ST
+  image: 
+  description: 
+  authors: S. B. Bader, P. Benedusi, A. Quaglino, P. Zulian, R. Krause
+  link_main:
+    url: https://www.sciencedirect.com/science/article/pii/S0021999121000565
+    display: Journal of Computational Physics
+  bibtex: |
+        @article{bader2021space,
+          title={Space-time multilevel {Monte Carlo} methods and their application to cardiac electrophysiology},
+          author={Bader, S Ben and Benedusi, Pietro and Quaglino, Alessio and Zulian, Patrick and Krause, Rolf},
+          journal={Journal of Computational Physics},
+          volume={433},
+          pages={110164},
+          year={2021},
+          publisher={Elsevier}
+        }
 
 
 
