@@ -256,6 +256,48 @@
           publisher={Mathematical Sciences Publishers}
         }
 
+- title: "Space and time parallel multigrid for optimization and uncertainty quantification in PDE simulations"
+  year: 2016
+  type: inproceeding
+  label: ST_chapter
+  image: 
+  description: 
+  authors: L. Grasedyck, C. Lobbert, G. and Wittum, A. Nagel, V. Schulz, M. Siebenborn, R. Krause, P. Benedusi, U. Kuster, B. Dick
+  link_main:
+    url: https://link.springer.com/chapter/10.1007/978-3-319-40528-5_23
+    display: Software for Exascale Computing-SPPEXA 2013-2015
+  bibtex: |
+        @incollection{grasedyck2016space,
+          title={{Space and time parallel multigrid for optimization and uncertainty quantification in PDE simulations}},
+          author={Grasedyck, L. and L{\"o}bbert, C. and Wittum, G. and N{\"a}gel, A. and Schulz, V. and Siebenborn, M. and Krause, R. and Benedusi, P. and K{\"u}ster, Uwe and Dick, Bj{\"o}rn},
+          booktitle={Software for Exascale Computing-SPPEXA 2013-2015},
+          pages={507--523},
+          year={2016},
+          publisher={Springer}
+        }
+
+- title: "A parallel multigrid solver for time-periodic incompressible Navier-Stokes equations in 3D"
+  year: 2016
+  type: inproceeding
+  label: NS
+  image: 
+  description: 
+  authors: P. Benedusi, D. Hupp, P. Arbenz, R. Krause
+  link_main:
+    url: https://link.springer.com/chapter/10.1007/978-3-319-39929-4_26
+    display: Numerical Mathematics and Advanced Applications ENUMATH 2015
+  bibtex: |
+        @incollection{benedusi2016parallel,
+          title={{A parallel multigrid solver for time-periodic incompressible Navier--Stokes equations in 3D}},
+          author={Benedusi, Pietro and Hupp, Daniel and Arbenz, Peter and Krause, Rolf},
+          booktitle={Numerical Mathematics and Advanced Applications ENUMATH 2015},
+          pages={265--273},
+          year={2016},
+          publisher={Springer}
+        }
+
+
+
 
 
 
