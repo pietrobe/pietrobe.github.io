@@ -1,3 +1,24 @@
+- title: "Modeling the scattering polarization in the solar line with angle-dependent PRD effects and bulk velocities"
+  year: 2024
+  type: journal
+  label: AA_vel
+  image: 
+  description: 
+  authors: N. Guerreiro, G. Janett, S. Riva, P. Benedusi, L. Belluzzi
+  link_main:
+    url: https://www.aanda.org/articles/aa/pdf/forth/aa46399-23.pdf
+    display: Astronomy & Astrophysics
+  bibtex: |
+        @article{Guerreiro2024modeling,
+          title={Modeling the scattering polarization in the solar line with angle-dependent PRD effects and bulk velocities},
+          author={N. Guerreiro, G. Janett, S. Riva, P. Benedusi, L. Belluzzi},
+           journal={Astronomy \& Astrophysics},
+          volume={},
+          pages={},
+          year={2024},
+          publisher={EDP Sciences}
+        }   
+
 - title: "Modeling excitable cells with the EMI equations: spectral analysis and iterative solution strategy"
   year: 2024
   type: journal
