@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a computational mathematician and my focus is in numerical analysis and PDEs modelling through large-scale simulations, particularly in solar physics research, computational neuroscience, and electrophysiology. 
+I am a computational mathematician focusing on numerical analysis and PDEs modelling through large-scale simulations, particularly for applications in solar physics, neuroscience, and electrophysiology. 
 
 Currently, I am a postdoctoral fellow at the **Simula Research Laboratory** in Oslo.
 
@@ -20,7 +20,6 @@ Currently, I am a postdoctoral fellow at the **Simula Research Laboratory** in O
 + **Space-time** and **Parallel-in-time** methods.
 
 ### Education
-
 + **Ph.D.**, Computational Science, Università della Svizzera Italiana, 2020
 + **M.A.**, Applied Mathematics and Computational Science, Università della Svizzera Italiana, 2015
 + **B.S.**, Physics, University of Pavia, 2013
