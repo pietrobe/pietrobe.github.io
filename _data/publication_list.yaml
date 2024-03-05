@@ -188,7 +188,7 @@
           publisher={Springer}
         }
 
-- title: "Space-time multilevel Monte Carlo methods and their application to cardiac electrophysiology}"
+- title: "Space-time multilevel Monte Carlo methods and their application to cardiac electrophysiology"
   year: 2021
   type: journal
   label: UQ_ST
@@ -209,6 +209,52 @@
           publisher={Elsevier}
         }
 
+- title: "Space-time FE-DG discretization of the anisotropic diffusion equation in any dimension: the spectral symbol"
+  year: 2018
+  type: journal
+  label: Symbol
+  image: 
+  description: 
+  authors: P. Benedusi, C. Garoni, R. Krause, X. Li, S. Serra-Capizzano
+  link_main:
+    url: https://epubs.siam.org/doi/10.1137/17M113527X
+    display: SIAM Journal on Matrix Analysis and Applications
+  bibtex: |
+        @article{Benedusi2018,
+          title={{Space-time FE-DG discretization of the anisotropic diffusion equation in any dimension: the spectral symbol}},
+          author={Benedusi, Pietro and Garoni, Carlo and Krause, Rolf and Li, Xiaozhou and Serra-Capizzano, Stefano},
+          journal={SIAM Journal on Matrix Analysis and Applications},
+          volume={39},
+          number={3},
+          pages={1383--1420},
+          year={2018},
+          publisher={SIAM}
+        }
+
+- title: "Time-parallel Gravitational Collapse Simulation"
+  year: 2017
+  type: journal
+  label: BH
+  image: 
+  description: 
+  authors: A. Kreienbuehl, P. Benedusi, D. Ruprecht, R. Krause
+  link_pre:
+    url: https://arxiv.org/abs/1509.01572
+    display: 1509.01572 (2016)
+  link_main:
+    url: 
+    display: Communications in Applied Mathematics and Computational Science
+  bibtex: |
+        @article{kreienbuehl2017time,
+          title={{Time-parallel Gravitational Collapse Simulation}},
+          author={Kreienbuehl, A. and Benedusi, P. and Ruprecht, D. and Krause, R.},
+          journal={Communications in Applied Mathematics and Computational Science},
+          volume={12},
+          number={1},
+          pages={109--128},
+          year={2017},
+          publisher={Mathematical Sciences Publishers}
+        }
 
 
 
