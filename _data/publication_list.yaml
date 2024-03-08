@@ -12,12 +12,12 @@
     url: 
     display: Under review.
   bibtex: |
-         @unpublished{benedusi2024scalable,
+        @unpublished{benedusi2024scalable,
           title = {Scalable approximation and solvers for ionic electrodiffusion in cellular geometries},
           author={Benedusi, Pietro and Ellinsgrud, Ada J. and Herlyng, halvor and Rognes, Marie E.},
           year={2024},
           archivePrefix="arXiv",
-          eprint={2403.04491},
+          eprint={2403.04491}
         }
 
 
