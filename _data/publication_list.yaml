@@ -1,3 +1,26 @@
+- title: "Scalable approximation and solvers for ionic electrodiffusion in cellular geometries"
+  year: 2024
+  type: preprint
+  label: KNPEMI1
+  image: 
+  description: 
+  authors: P. Benedusi, A. J. Ellingsrud, H. Herlyng, M. E. Rognes
+  link_pre: 
+    url: https://arxiv.org/abs/2403.04491
+    display: 2403.04491 (2024)
+  link_main:
+    url: 
+    display: Under review.
+  bibtex: |
+         @unpublished{benedusi2024scalable,
+          title = {Scalable approximation and solvers for ionic electrodiffusion in cellular geometries},
+          author={Benedusi, Pietro and Ellinsgrud, Ada J. and Herlyng, halvor and Rognes, Marie E.},
+          year={2024},
+          archivePrefix="arXiv",
+          eprint={2403.04491},
+        }
+
+
 - title: "Modeling the scattering polarization in the solar line with angle-dependent PRD effects and bulk velocities"
   year: 2024
   type: journal
