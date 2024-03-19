@@ -21,7 +21,7 @@ Currently, I am a postdoctoral fellow at the **Simula Research Laboratory** in O
 
 ### Education
 + **Ph.D.**, Computational Science, Università della Svizzera Italiana, 2020
-+ **M.A.**, Applied Mathematics and Computational Science, Università della Svizzera Italiana, 2015
++ **M.A.**, Applied Mathematics and Computational Science, Università della Svizzera Italiana & ETH Zürich, 2015
 + **B.S.**, Physics, University of Pavia, 2013
 
 
