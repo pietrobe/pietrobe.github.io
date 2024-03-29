@@ -1,3 +1,18 @@
+- title: "Accurate PRD modeling of the forward-scattering Hanle effect in the chromospheric CaI 4227 A line"
+  year: 2024
+  type: preprint
+  label: Hanle
+  image: 
+  description: 
+  authors: L. Belluzi et al
+  link_pre: 
+    url: 
+    display: 
+  link_main:
+    url: 
+    display: Under review.
+  bibtex: |        
+
 - title: "Scalable approximation and solvers for ionic electrodiffusion in cellular geometries"
   year: 2024
   type: preprint
