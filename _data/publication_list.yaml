@@ -12,6 +12,14 @@
     url: 
     display: Under review.
   bibtex: |        
+        @misc{belluzzi2024accurate,
+          title={Accurate PRD modeling of the forward-scattering Hanle effect in the chromospheric CaI 4227 {\AA} line}, 
+          author={Luca Belluzzi and Simone Riva and Gioele Janett and Nuno Guerreiro and Fabio Riva and Pietro Benedusi and Tanausú del Pino Alemán and Ernest Alsina Ballester and Javier Trujillo Bueno and Jiří Štěpán},
+          year={2024},
+          eprint={2404.00104},
+          archivePrefix={arXiv},
+          primaryClass={astro-ph.SR}
+        }
 
 - title: "Scalable approximation and solvers for ionic electrodiffusion in cellular geometries"
   year: 2024
