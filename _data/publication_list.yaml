@@ -1,3 +1,26 @@
+- title: "A splitting, discontinuous Galerkin solver for the cell-by-cell electroneutral Nernst-Planck framework"
+  year: 2024
+  type: preprint
+  label: KNPEMI-DG
+  image: 
+  description: 
+  authors: A. J. Ellingsrud, P. Benedusi, M. Kuchta
+  link_pre: 
+    url: https://arxiv.org/abs/2404.08320v2
+    display: 2404.08320 (2024)
+  link_main:
+    url: 
+    display: Under review.
+  bibtex: |        
+        @misc{ellingsrud2024splitting,
+          title={A splitting, discontinuous Galerkin solver for the cell-by-cell electroneutral Nernst-Planck framework}, 
+          author={Ada J. Ellingsrud and Pietro Benedusi and Miroslav Kuchta},
+          year={2024},
+          eprint={2404.08320},
+          archivePrefix={arXiv},
+          primaryClass={cs.CE}
+        }
+
 - title: "Accurate PRD modeling of the forward-scattering Hanle effect in the chromospheric CaI 4227 A line"
   year: 2024
   type: preprint
