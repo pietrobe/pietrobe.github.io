@@ -10,7 +10,7 @@ redirect_from:
 
 I am a computational mathematician focusing on numerical analysis and PDEs modelling through large-scale simulations, particularly for applications in solar physics, neuroscience, and electrophysiology. 
 
-Currently, I am a postdoctoral fellow at the **Simula Research Laboratory** in Oslo.
+Currently, I am a postdoctoral fellow at **Università della Svizzera Italiana (USI)**.
 
 ### Research interests
 + **Polarized radiative transfer**, performing large 3D simulations from MHD models to better understand Sun magnetism.
