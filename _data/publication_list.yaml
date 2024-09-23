@@ -12,14 +12,14 @@
     url: 
     display: Under review.
   bibtex: |        
-        @misc{benedusi2024densecellbycellsystemspdes,
-        title={Dense cell-by-cell systems of PDEs: approximation, spectral analysis, and preconditioning}, 
-        author={Pietro Benedusi and Paola Ferrari and Marius Causemann and Stefano Serra-Capizzano},
-        year={2024},
-        eprint={2409.13432},
-        archivePrefix={arXiv},
-        primaryClass={math.NA}      
-      }
+        @misc{benedusi2024dense,
+          title={Dense cell-by-cell systems of {PDEs}: approximation, spectral analysis, and preconditioning}, 
+          author={Pietro Benedusi and Paola Ferrari and Marius Causemann and Stefano Serra-Capizzano},
+          year={2024},
+          eprint={2409.13432},
+          archivePrefix={arXiv},
+          primaryClass={math.NA}
+        }
 
 
 - title: "Cell-by-cell modelling of electrical signaling in myelinated axons"
