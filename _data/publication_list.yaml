@@ -1,3 +1,24 @@
+- title: "Cell-by-cell modelling of electrical signaling in myelinated axons"
+  year: 2024
+  type: preprint
+  label: myelin
+  image: 
+  description: 
+  authors: A. Gatti, P. Benedusi, S. Pezzuto
+  link_pre: 
+    url: https://www.researchgate.net/publication/384252258_Cell-by-cell_modelling_of_electrical_signaling_in_myelinated_axons
+    display: 
+  link_main:
+    url: 
+    display: Under review.
+  bibtex: |        
+        @misc{gatti2024cell,
+          title={Cell-by-cell modelling of electrical signaling in myelinated axons}, 
+          author={Alessandro Gatti and Pietro Benedusi and Simone Pezzuto},
+          year={2024}          
+        }
+
+
 - title: "A splitting, discontinuous Galerkin solver for the cell-by-cell electroneutral Nernst-Planck framework"
   year: 2024
   type: preprint
