@@ -1,3 +1,27 @@
+- title: "Dense cell-by-cell systems of PDEs: approximation, spectral analysis, and preconditioning"
+  year: 2024
+  type: preprint
+  label: dense
+  image: 
+  description: 
+  authors: P. Benedusi, P. Ferrari, M. Causemann, S. Serra-Capizzano
+  link_pre: 
+    url: https://arxiv.org/abs/2409.13432
+    display: 
+  link_main:
+    url: 
+    display: Under review.
+  bibtex: |        
+        @misc{benedusi2024densecellbycellsystemspdes,
+        title={Dense cell-by-cell systems of PDEs: approximation, spectral analysis, and preconditioning}, 
+        author={Pietro Benedusi and Paola Ferrari and Marius Causemann and Stefano Serra-Capizzano},
+        year={2024},
+        eprint={2409.13432},
+        archivePrefix={arXiv},
+        primaryClass={math.NA}      
+      }
+
+
 - title: "Cell-by-cell modelling of electrical signaling in myelinated axons"
   year: 2024
   type: preprint
