@@ -91,7 +91,7 @@
 
 - title: "Scalable approximation and solvers for ionic electrodiffusion in cellular geometries"
   year: 2024
-  type: preprint
+  type: journal
   label: KNPEMI1
   image: 
   description: 
@@ -100,15 +100,18 @@
     url: https://arxiv.org/abs/2403.04491
     display: 2403.04491 (2024)
   link_main:
-    url: 
-    display: Under review.
+    url: https://doi.org/10.1137/24M1644717
+    display: SIAM Journal of Scientific Copmuting
   bibtex: |
-        @unpublished{benedusi2024scalable,
-          title = {Scalable approximation and solvers for ionic electrodiffusion in cellular geometries},
-          author={Benedusi, Pietro and Ellinsgrud, Ada J. and Herlyng, Halvor and Rognes, Marie E.},
-          year={2024},
-          archivePrefix="arXiv",
-          eprint={2403.04491}
+        @article{doi:10.1137/24M1644717,
+          author = {Benedusi, Pietro and Ellingsrud, Ada Johanne and Herlyng, Halvor and Rognes, Marie E.},
+            title = {Scalable Approximation and Solvers for Ionic Electrodiffusion in Cellular Geometries},
+            journal = {SIAM Journal on Scientific Computing},
+            volume = {46},
+            number = {5},
+            pages = {B725-B751},
+            year = {2024},
+            doi = {10.1137/24M1644717}
         }
 
 
@@ -126,7 +129,7 @@
         @article{Guerreiro2024modeling,
           title={Modeling the scattering polarization in the solar line with angle-dependent PRD effects and bulk velocities},
           author={N. Guerreiro, G. Janett, S. Riva, P. Benedusi, L. Belluzzi},
-           journal={Astronomy \& Astrophysics},
+          journal={Astronomy \& Astrophysics},
           volume={683},
           pages={A207},
           year={2024},
