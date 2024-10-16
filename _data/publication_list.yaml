@@ -103,15 +103,15 @@
     url: https://doi.org/10.1137/24M1644717
     display: SIAM Journal of Scientific Copmuting
   bibtex: |
-        @article{doi:10.1137/24M1644717,
+        @article{Benedusi2024,
           author = {Benedusi, Pietro and Ellingsrud, Ada Johanne and Herlyng, Halvor and Rognes, Marie E.},
-            title = {Scalable Approximation and Solvers for Ionic Electrodiffusion in Cellular Geometries},
-            journal = {SIAM Journal on Scientific Computing},
-            volume = {46},
-            number = {5},
-            pages = {B725-B751},
-            year = {2024},
-            doi = {10.1137/24M1644717}
+          title = {Scalable Approximation and Solvers for Ionic Electrodiffusion in Cellular Geometries},
+          journal = {SIAM Journal on Scientific Computing},
+          volume = {46},
+          number = {5},
+          pages = {B725-B751},
+          year = {2024},
+          doi = {10.1137/24M1644717}
         }
 
 
