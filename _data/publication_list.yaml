@@ -68,7 +68,7 @@
 
 - title: "Accurate PRD modeling of the forward-scattering Hanle effect in the chromospheric CaI 4227 A line"
   year: 2024
-  type: preprint
+  type: journal
   label: Hanle
   image: 
   description: 
@@ -77,8 +77,8 @@
     url: https://arxiv.org/abs/2404.00104
     display: 2404.00104 (2024)
   link_main:
-    url: 
-    display: Under review.
+    url: https://doi.org/10.1051/0004-6361/202450178
+    display: Astronomy & Astrophysics
   bibtex: |        
         @misc{belluzzi2024accurate,
           title={Accurate PRD modeling of the forward-scattering Hanle effect in the chromospheric CaI 4227 {\AA} line}, 
