@@ -16,7 +16,7 @@ Currently, I am a postdoctoral fellow at **Università della Svizzera Italiana (
 + **Cell-by-cell models** to efficiently simulate cellular dynamics at the micron scale in the brain.
 + **Polarized radiative transfer**, performing large 3D simulations from MHD models to better understand Sun magnetism.
 + **High performance computing** and design of scalable multilevel solutions for discretized PDEs.
-+ **Scientific machine learning** and its applications to computaitonal physics. 
++ Novel **scientific machine learning** methods with applications to computational physics. 
 + **Numerical linear algebra** and the analysis of spectral properties of matrix sequences, with application to fast solvers. 
 + **Space-time** and **Parallel-in-time** methods.
 
