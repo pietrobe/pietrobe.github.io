@@ -45,7 +45,7 @@
 
 - title: "A splitting, discontinuous Galerkin solver for the cell-by-cell electroneutral Nernst-Planck framework"
   year: 2024
-  type: preprint
+  type: journal
   label: KNPEMI-DG
   image: 
   description: 
@@ -55,7 +55,7 @@
     display: 2404.08320 (2024)
   link_main:
     url: 
-    display: Under review.
+    display: To appear in SIAM Journal of Scientific Computing
   bibtex: |        
         @misc{ellingsrud2024splitting,
           title={A splitting, discontinuous Galerkin solver for the cell-by-cell electroneutral Nernst-Planck framework}, 
@@ -101,7 +101,7 @@
     display: 2403.04491 (2024)
   link_main:
     url: https://doi.org/10.1137/24M1644717
-    display: SIAM Journal of Scientific Copmuting
+    display: SIAM Journal of Scientific Computing
   bibtex: |
         @article{Benedusi2024,
           author = {Benedusi, Pietro and Ellingsrud, Ada Johanne and Herlyng, Halvor and Rognes, Marie E.},
