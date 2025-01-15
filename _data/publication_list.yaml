@@ -1,3 +1,19 @@
+- title: "A code to model the Stokes profiles of strong resonance lines in dynamic and magnetic plane-parallel atmospheres"
+  year: 2025
+  type: preprint
+  label: Fabio_code
+  image: 
+  description: 
+  authors: F. Riva, G. Janett,L. Belluzzi, T. Pino Aleman, E. Alsina Ballester,
+J. Trujillo Bueno, P. Benedusi, S. Riva, and R. Krause
+  link_pre: 
+    url: 
+    display: 
+  link_main:
+    url: 
+    display: Under review.
+  bibtex:
+
 - title: "Dense cell-by-cell systems of PDEs: approximation, spectral analysis, and preconditioning"
   year: 2024
   type: preprint
