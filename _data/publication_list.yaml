@@ -1,4 +1,4 @@
-- title: "A code to model the Stokes profiles of strong resonance lines in dynamic and magnetic plane-parallel atmospheres"
+- title: "A numerical approach for modelling the polarisation signals\\ of strong resonance lines with partial frequency redistribution"
   year: 2025
   type: preprint
   label: Fabio_code
@@ -10,7 +10,7 @@
     display: 
   link_main:
     url: 
-    display: Under review.
+    display: Under revision.
   bibtex:
 
 - title: "Dense cell-by-cell systems of PDEs: approximation, spectral analysis, and preconditioning"
@@ -59,7 +59,7 @@
 
 
 - title: "A splitting, discontinuous Galerkin solver for the cell-by-cell electroneutral Nernst-Planck framework"
-  year: 2024
+  year: 2025
   type: journal
   label: KNPEMI-DG
   image: 
@@ -69,8 +69,8 @@
     url: https://arxiv.org/abs/2404.08320v2
     display: 2404.08320 (2024)
   link_main:
-    url: 
-    display: To appear in SIAM Journal of Scientific Computing
+    url: https://epubs.siam.org/doi/full/10.1137/24M1653367
+    display: SIAM Journal of Scientific Computing
   bibtex: |        
         @misc{ellingsrud2024splitting,
           title={A splitting, discontinuous Galerkin solver for the cell-by-cell electroneutral Nernst-Planck framework}, 
@@ -95,14 +95,18 @@
     url: https://doi.org/10.1051/0004-6361/202450178
     display: Astronomy & Astrophysics
   bibtex: |        
-        @misc{belluzzi2024accurate,
-          title={Accurate PRD modeling of the forward-scattering Hanle effect in the chromospheric CaI 4227 {\AA} line}, 
-          author={Luca Belluzzi and Simone Riva and Gioele Janett and Nuno Guerreiro and Fabio Riva and Pietro Benedusi and Tanausú del Pino Alemán and Ernest Alsina Ballester and Javier Trujillo Bueno and Jiří Štěpán},
-          year={2024},
-          eprint={2404.00104},
-          archivePrefix={arXiv},
-          primaryClass={astro-ph.SR}
+        @article{Ellingsrud2025,
+          author = {Ellingsrud, Ada J. and Benedusi, Pietro and Kuchta, Miroslav},
+          title = {A Splitting, Discontinuous {G}alerkin Solver for the Cell-by-Cell Electroneutral {Nernst–Planck} Framework},
+          journal = {SIAM Journal on Scientific Computing},
+          volume = {47},
+          number = {2},
+          pages = {B477-B504},
+          year = {2025},
+          doi = {10.1137/24M1653367}
         }
+
+
 
 - title: "Scalable approximation and solvers for ionic electrodiffusion in cellular geometries"
   year: 2024
