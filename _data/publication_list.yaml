@@ -72,13 +72,15 @@
     url: https://epubs.siam.org/doi/full/10.1137/24M1653367
     display: SIAM Journal of Scientific Computing
   bibtex: |        
-        @misc{ellingsrud2024splitting,
-          title={A splitting, discontinuous Galerkin solver for the cell-by-cell electroneutral Nernst-Planck framework}, 
-          author={Ada J. Ellingsrud and Pietro Benedusi and Miroslav Kuchta},
-          year={2024},
-          eprint={2404.08320},
-          archivePrefix={arXiv},
-          primaryClass={cs.CE}
+        @article{Ellingsrud2025,
+          author = {Ellingsrud, Ada J. and Benedusi, Pietro and Kuchta, Miroslav},
+          title = {A Splitting, Discontinuous {G}alerkin Solver for the Cell-by-Cell Electroneutral {Nernst–Planck} Framework},
+          journal = {SIAM Journal on Scientific Computing},
+          volume = {47},
+          number = {2},
+          pages = {B477-B504},
+          year = {2025},
+          doi = {10.1137/24M1653367}
         }
 
 - title: "Accurate PRD modeling of the forward-scattering Hanle effect in the chromospheric CaI 4227 A line"
@@ -95,17 +97,15 @@
     url: https://doi.org/10.1051/0004-6361/202450178
     display: Astronomy & Astrophysics
   bibtex: |        
-        @article{Ellingsrud2025,
-          author = {Ellingsrud, Ada J. and Benedusi, Pietro and Kuchta, Miroslav},
-          title = {A Splitting, Discontinuous {G}alerkin Solver for the Cell-by-Cell Electroneutral {Nernst–Planck} Framework},
-          journal = {SIAM Journal on Scientific Computing},
-          volume = {47},
-          number = {2},
-          pages = {B477-B504},
-          year = {2025},
-          doi = {10.1137/24M1653367}
+        @article{belluzzi2024accurate,
+          title={Accurate modeling of the forward-scattering Hanle effect in the chromospheric Ca I 4227 {\AA} line},
+          author={Belluzzi, Luca and Riva, Simone and Janett, Gioele and Guerreiro, Nuno and Riva, Fabio and Benedusi, Pietro and del Pino Alem{\'a}n, Tanaus{\'u} and Ballester, Ernest Alsina and Bueno, Javier Trujillo and {\v{S}}t{\v{e}}p{\'a}n, Ji{\v{r}}{\'\i}},
+          journal={Astronomy \& Astrophysics},
+          volume={691},
+          pages={A278},
+          year={2024},
+          publisher={EDP Sciences}
         }
-
 
 
 - title: "Scalable approximation and solvers for ionic electrodiffusion in cellular geometries"
