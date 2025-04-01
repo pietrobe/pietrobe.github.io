@@ -10,7 +10,7 @@ redirect_from:
 
 I am a computational mathematician focusing on numerical analysis and PDEs modelling through large-scale simulations, particularly for applications in neuroscience, solar physics, and electrophysiology. 
 
-Currently, I am a postdoctoral fellow at **Università della Svizzera Italiana (USI)**.
+Currently, I am a scientific collaborator within the Institute of Solar Research Aldo e Cele Daccò (IRSOL) at **Università della Svizzera Italiana (USI)**.
 
 ### Research interests
 + **Cell-by-cell models** to efficiently simulate cellular dynamics at the micron scale in the brain.
