@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-### <span style="color:rgb(55, 161, 223)"> Submitted manuscripts (under review)
+### <span style="color:rgb(55, 161, 223)"> Submitted manuscripts (under revision)
 <ul class="preprint_list">
 {% assign number_printed = 0 %}
 {% for publi in site.data.publication_list %}
