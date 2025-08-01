@@ -15,18 +15,28 @@
 
 - title: "A numerical approach for modelling the polarisation signals of strong resonance lines with partial frequency redistribution"
   year: 2025
-  type: preprint
+  type: journal
   label: Fabio_code
   image: 
   description: 
   authors: F. Riva, G. Janett,L. Belluzzi, T. Pino Aleman, E. Alsina Ballester, J. Trujillo Bueno, P. Benedusi, S. Riva, and R. Krause
   link_pre: 
-    url: 
+    url: https://arxiv.org/html/2505.20968v1
     display: 
   link_main:
-    url: 
-    display: Under revision.
-  bibtex:
+    url: https://doi.org/10.1051/0004-6361/202453107
+    display: 
+  bibtex: |
+      @article{riva2025,
+	      author = {{Riva, Fabio} and {Janett, Gioele} and {Belluzzi, Luca} and {del Pino Alemán, Tanausú} and {Alsina Ballester, Ernest} and {Trujillo Bueno, Javier} and {Benedusi, Pietro} and {Riva, Simone} and {Krause, Rolf}},
+	      title = {A numerical approach for modelling the polarisation signals of strong resonance lines with partial frequency redistribution - Applications to two-term atoms and plane-parallel atmospheres},
+	      DOI= "10.1051/0004-6361/202453107",
+	      url= "https://doi.org/10.1051/0004-6361/202453107",
+	      journal={Astronomy \& Astrophysics},
+	      year = 2025,
+	      volume = 699,
+	      pages = "A233",
+      }
 
 - title: "Dense cell-by-cell systems of PDEs: approximation, spectral analysis, and preconditioning"
   year: 2024
