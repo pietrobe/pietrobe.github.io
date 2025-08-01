@@ -13,30 +13,6 @@
     display: Under revision.
   bibtex:
 
-- title: "A numerical approach for modelling the polarisation signals of strong resonance lines with partial frequency redistribution"
-  year: 2025
-  type: journal
-  label: Fabio_code
-  image: 
-  description: 
-  authors: F. Riva et al
-  link_pre: 
-    url: https://arxiv.org/html/2505.20968v1
-    display: 
-  link_main:
-    url: https://doi.org/10.1051/0004-6361/202453107
-    display: 
-  bibtex: |
-        @article{riva2025,
-	      author = {{Riva, Fabio} and {Janett, Gioele} and {Belluzzi, Luca} and {del Pino Alemán, Tanausú} and {Alsina Ballester, Ernest} and {Trujillo Bueno, Javier} and {Benedusi, Pietro} and {Riva, Simone} and {Krause, Rolf}},
-	      title = {A numerical approach for modelling the polarisation signals of strong resonance lines with partial frequency redistribution - Applications to two-term atoms and plane-parallel atmospheres},
-	      DOI= "10.1051/0004-6361/202453107",
-	      url= "https://doi.org/10.1051/0004-6361/202453107",
-	      journal={Astronomy \& Astrophysics},
-	      year = 2025,
-	      volume = 699,
-	      pages = "A233"
-        }
 
 - title: "Dense cell-by-cell systems of PDEs: approximation, spectral analysis, and preconditioning"
   year: 2024
@@ -82,6 +58,31 @@
           year={2024}          
         }
 
+
+- title: "A numerical approach for modelling the polarisation signals of strong resonance lines with partial frequency redistribution"
+  year: 2025
+  type: journal
+  label: Fabio_code
+  image: 
+  description: 
+  authors: F. Riva et al
+  link_pre: 
+    url: https://arxiv.org/html/2505.20968v1
+    display: 
+  link_main:
+    url: https://doi.org/10.1051/0004-6361/202453107
+    display: 
+  bibtex: |
+        @article{riva2025,
+	  author = {{Riva, Fabio} and {Janett, Gioele} and {Belluzzi, Luca} and {del Pino Alemán, Tanausú} and {Alsina Ballester, Ernest} and {Trujillo Bueno, Javier} and {Benedusi, Pietro} and {Riva, Simone} and {Krause, Rolf}},
+	  title = {A numerical approach for modelling the polarisation signals of strong resonance lines with partial frequency redistribution - Applications to two-term atoms and plane-parallel atmospheres},
+	  DOI= "10.1051/0004-6361/202453107",
+     	  url= "https://doi.org/10.1051/0004-6361/202453107",
+	  journal={Astronomy \& Astrophysics},
+	  year = 2025,
+	  volume = 699,
+   	  pages = "A233"
+        }
 
 - title: "A splitting, discontinuous Galerkin solver for the cell-by-cell electroneutral Nernst-Planck framework"
   year: 2025
