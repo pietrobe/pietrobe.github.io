@@ -71,7 +71,7 @@
     display: 
   link_main:
     url: https://doi.org/10.1051/0004-6361/202453107
-    display: 
+    display: Astronomy & Astrophysics
   bibtex: |
         @article{riva2025,
           author = {{Riva, Fabio} and {Janett, Gioele} and {Belluzzi, Luca} and {del Pino Alemán, Tanausú} and {Alsina Ballester, Ernest} and {Trujillo Bueno, Javier} and {Benedusi, Pietro} and {Riva, Simone} and {Krause, Rolf}},
