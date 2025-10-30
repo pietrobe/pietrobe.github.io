@@ -1,3 +1,18 @@
+- title: "Adaptive Multidimensional Quadrature on Multi-GPU Systems"
+  year: 2025
+  type: preprint
+  label: Multi-GPU
+  image: 
+  description: 
+  authors: M. Tonarelli, S. Riva, P. Benedusi, F. Ferrandi, R. Krause
+  link_pre: 
+    url: 
+    display: 
+  link_main:
+    url: 
+    display: Under revision.
+  bibtex:
+
 - title: "3D radiative transfer modeling of scattering polarization with partial frequency redistribution. I. Verification and disk-center results for the solar Ca I 4227 Å line"
   year: 2025
   type: preprint
