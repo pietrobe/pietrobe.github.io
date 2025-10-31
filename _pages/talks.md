@@ -12,7 +12,7 @@ author_profile: true
 ### <span style="color:rgb(55, 161, 223)">Contributed talks</span>
 + 5/2025 COUPLED PROBLEMS, Villasimius, Italy.
 + 2/2025 IMG, KAUST, Saudi Arabia.
-+ 2/2025 Due Giorni di Algebra Lineare Numerica”, Pisa, Italy.
++ 2/2025 Due Giorni di Algebra Lineare Numerica, Pisa, Italy.
 + 6/2024 FEniCs conference, Oslo, Norway.
 + 6/2024 ECCOMAS, Lisbon, Portugal. 
 + 1/2024 DD28, KAUST, Saudi Arabia.
