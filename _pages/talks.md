@@ -6,11 +6,20 @@ author_profile: true
 ---
 
 ### <span style="color:rgb(55, 161, 223)">Invited talks</span>
++ 9/2025 11th Solar Polarization Workshop, Prague, Czech Republic.
++ 12/2024 Mathematis&Decisions, Rabat, Morocco.
+
+### <span style="color:rgb(55, 161, 223)">Contributed talks</span>
++ 5/2025 COUPLED PROBLEMS, Villasimius, Italy.
++ 2/2025 IMG, KAUST, Saudi Arabia.
++ 2/2025 Due Giorni di Algebra Lineare Numerica”, Pisa, Italy.
++ 6/2024 FEniCs conference, Oslo, Norway.
++ 6/2024 ECCOMAS, Lisbon, Portugal. 
 + 1/2024 DD28, KAUST, Saudi Arabia.
 + 11/2023 SfN, Washington, USA.
 + 8/2023 ICIAM, Tokyo, Japan.
 + 7/2023 MICROCARD workshop, Strasbourg, France. 11/2022 
-+ SPW10, Kyoto, Japan.
++ 11/2022 SPW10, Kyoto, Japan.
 + 9/2022 GIMC SIMAI YOUNG 2022, Pavia, Italy.
 + 8/2022 IMG2022, Lugano, Switzerland.
 + 7/2022 11th Parallel-in-Time Workshop, CIRM, France.
@@ -30,4 +39,3 @@ author_profile: true
 + 6/2016 MAFELAP conference, London.
 + 6/2016 ECCOMAS conference, Crete.
 + 3/2016 SIAM PP16 conference, Paris.
-
