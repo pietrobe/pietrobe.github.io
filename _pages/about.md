@@ -20,6 +20,9 @@ Currently, I am a scientific collaborator within the Institute of Solar Research
 + **Numerical linear algebra** and the analysis of spectral properties of matrix sequences, with application to fast solvers. 
 + **Space-time** and **Parallel-in-time** methods.
 
+### Habilitaiton
++  Italian habilitation as Associate Professor (II fascia) in Numerical Analysis with unanimity of the commission.
+
 ### Education
 + **Ph.D.**, Computational Science, Università della Svizzera Italiana, 2020
 + **M.A.**, Applied Mathematics and Computational Science, Università della Svizzera Italiana & ETH Zürich, 2015
