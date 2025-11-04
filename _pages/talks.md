@@ -6,8 +6,7 @@ author_profile: true
 ---
 
 ### <span style="color:rgb(55, 161, 223)">Invited talks</span>
-+ 2026 BIRS Workshop Invitation: Space-Time Approaches to PDE Solvers,
-  Banff International Research Station for Mathematical Innovation and Discovery (BIRS), Canada
++ 11/2026 BIRS Workshop: Space-Time Approaches to PDE Solvers, Banff, Canada.
 + 9/2025 11th Solar Polarization Workshop, Prague, Czech Republic.
 + 12/2024 Mathematis&Decisions, Rabat, Morocco.
 
