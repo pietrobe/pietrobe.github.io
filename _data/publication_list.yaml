@@ -11,7 +11,16 @@
   link_main:
     url: 
     display: Under revision.
-  bibtex:
+  bibtex: |
+      @misc{tonarelli2025adaptivemultidimensionalquadraturemultigpu,
+        title={Adaptive Multidimensional Quadrature on Multi-GPU Systems}, 
+        author={Melanie Tonarelli and Simone Riva and Pietro Benedusi and Fabrizio Ferrandi and Rolf Krause},
+        year={2025},
+        eprint={2511.01573},
+        archivePrefix={arXiv},      
+        url={https://arxiv.org/abs/2511.01573} 
+      }
+
 
 - title: "3D radiative transfer modeling of scattering polarization with partial frequency redistribution. I. Verification and disk-center results for the solar Ca I 4227 Å line"
   year: 2025
@@ -26,16 +35,7 @@
   link_main:
     url: 
     display: Under revision.
-  bibtex: |
-      @misc{tonarelli2025adaptivemultidimensionalquadraturemultigpu,
-        title={Adaptive Multidimensional Quadrature on Multi-GPU Systems}, 
-        author={Melanie Tonarelli and Simone Riva and Pietro Benedusi and Fabrizio Ferrandi and Rolf Krause},
-        year={2025},
-        eprint={2511.01573},
-        archivePrefix={arXiv},      
-        url={https://arxiv.org/abs/2511.01573} 
-      }
-
+  bibtex: 
 
 - title: "Dense cell-by-cell systems of PDEs: approximation, spectral analysis, and preconditioning"
   year: 2024
