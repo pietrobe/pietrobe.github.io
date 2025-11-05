@@ -6,7 +6,7 @@
   description: 
   authors: M. Tonarelli, S. Riva, P. Benedusi, F. Ferrandi, R. Krause
   link_pre: 
-    url: 
+    url: https://arxiv.org/abs/2511.01573
     display: 
   link_main:
     url: 
@@ -26,7 +26,15 @@
   link_main:
     url: 
     display: Under revision.
-  bibtex:
+  bibtex: |
+      @misc{tonarelli2025adaptivemultidimensionalquadraturemultigpu,
+        title={Adaptive Multidimensional Quadrature on Multi-GPU Systems}, 
+        author={Melanie Tonarelli and Simone Riva and Pietro Benedusi and Fabrizio Ferrandi and Rolf Krause},
+        year={2025},
+        eprint={2511.01573},
+        archivePrefix={arXiv},      
+        url={https://arxiv.org/abs/2511.01573} 
+      }
 
 
 - title: "Dense cell-by-cell systems of PDEs: approximation, spectral analysis, and preconditioning"
