@@ -64,7 +64,7 @@
 
 - title: "Cell-by-cell modelling of electrical signaling in myelinated axons"
   year: 2024
-  type: preprint
+  type: inproceeding
   label: myelin
   image: 
   description: 
@@ -73,13 +73,14 @@
     url: https://www.researchgate.net/publication/384252258_Cell-by-cell_modelling_of_electrical_signaling_in_myelinated_axons
     display: 
   link_main:
-    url: 
-    display: Under review.
+    url: https://www.ddm.org/DD28/proceedings/DD28_399.pdf
+    display: 
   bibtex: |        
-        @misc{gatti2024cell,
-          title={Cell-by-cell modelling of electrical signaling in myelinated axons}, 
-          author={Alessandro Gatti and Pietro Benedusi and Simone Pezzuto},
-          year={2024}          
+        @inproceedings{gatti2024cell,
+         author    = {Alessandro Gatti and Pietro Benedusi and Simone Pezzuto},
+         title     = {Cell-by-cell modelling of electrical signaling in myelinated axons},
+         booktitle = {Proceedings of the 28th International Conference on Domain Decomposition Methods (DD28)},
+         year      = {2024}
         }
 
 
