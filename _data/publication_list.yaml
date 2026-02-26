@@ -11,7 +11,17 @@
   link_main:
     url: 
     display: Under revision.
-  bibtex: 
+  bibtex:  |
+      @misc{benedusi2026analysiseigenvalueclusteringleads,
+        title={Analysis of eigenvalue clustering leads to optimal scaling in numerical radiative transfer}, 
+        author={Pietro Benedusi and Simone Riva and Luca Belluzzi and Stefano Serra-Capizzano},
+        year={2026},
+        eprint={2602.21958},
+        archivePrefix={arXiv},
+        primaryClass={math.NA},
+        url={https://arxiv.org/abs/2602.21958}, 
+      }
+
 
 - title: "Adaptive Multidimensional Quadrature on Multi-GPU Systems"
   year: 2025
