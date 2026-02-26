@@ -68,7 +68,7 @@
       archivePrefix={arXiv},
       primaryClass={astro-ph.SR},
       url={https://arxiv.org/abs/2602.18100}, 
-    }
+     }
 
 - title: "Dense cell-by-cell systems of PDEs: approximation, spectral analysis, and preconditioning"
   year: 2024
