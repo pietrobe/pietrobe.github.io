@@ -1,3 +1,27 @@
+- title: "Analysis of eigenvalue clustering leads to optimal scaling in numerical radiative transfer"
+  year: 2026
+  type: preprint
+  label: spectral_RT
+  image: 
+  description: 
+  authors: P. Benedusi, S. Riva, L. Belluzzi, and S. Serra-Capizzano
+  link_pre: 
+    url: https://arxiv.org/abs/2602.21958
+    display: 
+  link_main:
+    url: 
+    display: Under revision.
+  bibtex: |
+      @misc{benedusi2026analysiseigenvalueclusteringleads,
+      title={Analysis of eigenvalue clustering leads to optimal scaling in numerical radiative transfer}, 
+      author={Pietro Benedusi and Simone Riva and Luca Belluzzi and Stefano Serra-Capizzano},
+      year={2026},
+      eprint={2602.21958},
+      archivePrefix={arXiv},
+      primaryClass={math.NA},
+      url={https://arxiv.org/abs/2602.21958}, 
+    }
+
 - title: "Adaptive Multidimensional Quadrature on Multi-GPU Systems"
   year: 2025
   type: preprint
@@ -30,12 +54,21 @@
   description: 
   authors: P. Benedusi et al
   link_pre: 
-    url: 
+    url: https://arxiv.org/abs/2602.18100
     display: 
   link_main:
     url: 
     display: Under revision.
-  bibtex: 
+  bibtex: |
+     @misc{benedusi20263dradiativetransfermodeling,
+      title={3D radiative transfer modeling of scattering polarization with partial frequency redistribution I. Verification and disk-center results for the solar Ca I 4227 {\AA} line}, 
+      author={Pietro Benedusi and Simone Riva and Tanausú del Pino Alemán and Gioele Janett and Fabio Riva and Jirí Štepán and Rolf Krause and Javier Trujillo Bueno and Luca Belluzzi},
+      year={2026},
+      eprint={2602.18100},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.SR},
+      url={https://arxiv.org/abs/2602.18100}, 
+    }
 
 - title: "Dense cell-by-cell systems of PDEs: approximation, spectral analysis, and preconditioning"
   year: 2024
