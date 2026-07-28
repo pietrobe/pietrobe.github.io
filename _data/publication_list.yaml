@@ -25,7 +25,7 @@
 
 - title: "Adaptive Multidimensional Quadrature on Multi-GPU Systems"
   year: 2025
-  type: preprint
+  type: inproceeding
   label: Multi-GPU
   image: 
   description: 
@@ -34,16 +34,14 @@
     url: https://arxiv.org/abs/2511.01573
     display: 
   link_main:
-    url: 
-    display: Under revision.
+    url: https://www.ddm.org/DD29/proceedings/ID49_pages.pdf
+    display: 
   bibtex: |
-      @misc{tonarelli2025adaptivemultidimensionalquadraturemultigpu,
+      @inproceedings{tonarelli2025adaptive,
         title={Adaptive Multidimensional Quadrature on Multi-GPU Systems}, 
         author={Melanie Tonarelli and Simone Riva and Pietro Benedusi and Fabrizio Ferrandi and Rolf Krause},
         year={2025},
-        eprint={2511.01573},
-        archivePrefix={arXiv},      
-        url={https://arxiv.org/abs/2511.01573} 
+        booktitle = {Proceedings of the 29th International Conference on Domain Decomposition Methods (DD29)},
       }
 
 
@@ -73,7 +71,7 @@
 
 - title: "Dense cell-by-cell systems of PDEs: approximation, spectral analysis, and preconditioning"
   year: 2025
-  type: preprint
+  type: journal
   label: dense
   image: 
   description: 
@@ -81,18 +79,19 @@
   link_pre: 
     url: https://arxiv.org/abs/2409.13432
     display: 
-  link_main:
+  link_main: https://link.springer.com/article/10.1007/s10543-026-01136-6
     url: 
-    display: Under review.
+    display: 
   bibtex: |        
-        @misc{benedusi2024dense,
-          title={Dense cell-by-cell systems of {PDEs}: approximation, spectral analysis, and preconditioning}, 
-          author={Pietro Benedusi and Paola Ferrari and Marius Causemann and Stefano Serra-Capizzano},
-          year={2024},
-          eprint={2409.13432},
-          archivePrefix={arXiv},
-          primaryClass={math.NA},
-          url={https://arxiv.org/abs/2409.13432}
+        @article{Benedusi2026,
+         author  = {Benedusi, Pietro and Ferrari, Paola and Causemann, Marius and Serra-Capizzano, Stefano},
+         title   = {Dense cell-by-cell systems of {PDEs}: approximation, spectral analysis, and preconditioning},
+         journal = {BIT Numerical Mathematics},
+         year    = {2026},
+         volume  = {66},
+         number  = {53},
+         doi     = {10.1007/s10543-026-01136-6},
+         url     = {https://doi.org/10.1007/s10543-026-01136-6}
         }
 
 
