@@ -61,16 +61,16 @@
     url: https://www.ddm.org/DD29/proceedings/ID49_pages.pdf
     display: 
   bibtex: |
-      @inproceedings{tonarelli2025adaptive,
-        title={Adaptive Multidimensional Quadrature on Multi-GPU Systems}, 
-        author={Melanie Tonarelli and Simone Riva and Pietro Benedusi and Fabrizio Ferrandi and Rolf Krause},
-        year={2025},
-        booktitle = {Proceedings of the 29th International Conference on Domain Decomposition Methods (DD29)}
-      }
+        @inproceedings{tonarelli2025adaptive,
+         title={Adaptive Multidimensional Quadrature on Multi-GPU Systems}, 
+         author={Melanie Tonarelli and Simone Riva and Pietro Benedusi and Fabrizio Ferrandi and Rolf Krause},
+         year={2025},
+         booktitle = {Proceedings of the 29th International Conference on Domain Decomposition Methods (DD29)}
+        }
 
 
 - title: "Dense cell-by-cell systems of PDEs: approximation, spectral analysis, and preconditioning"
-  year: 2025
+  year: 2026
   type: journal
   label: dense
   image: 
