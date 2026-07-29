@@ -11,7 +11,13 @@
   link_main:
     url: 
     display: Under revision.
-  bibtex: 
+  bibtex: |
+      @unpublished{Riva2026crd,
+        author = {Riva, Simone and Janett, Gioele and Belluzzi, Luca and Zeuner, Franziska and Riva, Fabio and Benedusi, Pietro},
+        title  = {Validity of the {CRD} limit for modeling scattering polarization in the photospheric {Sr I} 4607 {\AA} line},
+        note   = {Preprint},
+        year   = {2026}
+      }
 
 
 - title: "Analysis of eigenvalue clustering leads to optimal scaling in numerical radiative transfer"
