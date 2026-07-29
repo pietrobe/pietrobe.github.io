@@ -99,11 +99,11 @@
   description: 
   authors: P. Benedusi, P. Ferrari, M. Causemann, S. Serra-Capizzano
   link_pre: 
-    url: https://arxiv.org/abs/2409.13432
+    url:
     display: 
   link_main: 
     url: https://link.springer.com/article/10.1007/s10543-026-01136-6
-    display: 
+    display: BIT Numerical Mathematics
   bibtex: |        
         @article{Benedusi2026,
          author  = {Benedusi, Pietro and Ferrari, Paola and Causemann, Marius and Serra-Capizzano, Stefano},
