@@ -75,13 +75,10 @@
   label: Multi-GPU
   image: 
   description: 
-  authors: M. Tonarelli, S. Riva, P. Benedusi, F. Ferrandi, R. Krause
-  link_pre: 
-    url: https://arxiv.org/abs/2511.01573
-    display: 
+  authors: M. Tonarelli, S. Riva, P. Benedusi, F. Ferrandi, R. Krause  
   link_main:
     url: https://www.ddm.org/DD29/proceedings/ID49_pages.pdf
-    display: 
+    display: Proceedings of the 29th International Conference on Domain Decomposition Methods
   bibtex: |
         @inproceedings{tonarelli2025adaptive,
          title={Adaptive Multidimensional Quadrature on Multi-GPU Systems}, 
@@ -98,9 +95,6 @@
   image: 
   description: 
   authors: P. Benedusi, P. Ferrari, M. Causemann, S. Serra-Capizzano
-  link_pre: 
-    url: https://arxiv.org/abs/2409.13432
-    display: 
   link_main: 
     url: https://link.springer.com/article/10.1007/s10543-026-01136-6
     display: BIT Numerical Mathematics
@@ -124,12 +118,10 @@
   image: 
   description: 
   authors: A. Gatti, P. Benedusi, S. Pezzuto
-  link_pre: 
-    url: https://www.researchgate.net/publication/384252258_Cell-by-cell_modelling_of_electrical_signaling_in_myelinated_axons
-    display: 
+  link_pre:     
   link_main:
     url: https://www.ddm.org/DD28/proceedings/DD28_399.pdf
-    display: 
+    display: Proceedings of the 28th International Conference on Domain Decomposition Methods
   bibtex: |        
         @inproceedings{gatti2024cell,
          author    = {Alessandro Gatti and Pietro Benedusi and Simone Pezzuto},
@@ -146,9 +138,6 @@
   image: 
   description: 
   authors: F. Riva et al
-  link_pre: 
-    url: https://arxiv.org/html/2505.20968v1
-    display: 
   link_main:
     url: https://doi.org/10.1051/0004-6361/202453107
     display: Astronomy & Astrophysics
@@ -171,9 +160,6 @@
   image: 
   description: 
   authors: A. J. Ellingsrud, P. Benedusi, M. Kuchta
-  link_pre: 
-    url: https://arxiv.org/abs/2404.08320v2
-    display: 2404.08320 (2024)
   link_main:
     url: https://epubs.siam.org/doi/full/10.1137/24M1653367
     display: SIAM Journal of Scientific Computing
@@ -196,9 +182,6 @@
   image: 
   description: 
   authors: L. Belluzzi et al
-  link_pre: 
-    url: https://arxiv.org/abs/2404.00104
-    display: 2404.00104 (2024)
   link_main:
     url: https://doi.org/10.1051/0004-6361/202450178
     display: Astronomy & Astrophysics
@@ -221,9 +204,6 @@
   image: 
   description: 
   authors: P. Benedusi, A. J. Ellingsrud, H. Herlyng, M. E. Rognes
-  link_pre: 
-    url: https://arxiv.org/abs/2403.04491
-    display: 2403.04491 (2024)
   link_main:
     url: https://doi.org/10.1137/24M1644717
     display: SIAM Journal of Scientific Computing
