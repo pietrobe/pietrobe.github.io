@@ -22,7 +22,7 @@
 
 - title: "Analysis of eigenvalue clustering leads to optimal scaling in numerical radiative transfer"
   year: 2026
-  type: preprint
+  type: journal
   label: spectral_RT
   image: 
   description: 
@@ -31,18 +31,23 @@
     url: https://arxiv.org/abs/2602.21958
     display: 
   link_main:
-    url: 
-    display: Under revision.
+    url: https://onlinelibrary.wiley.com/doi/abs/10.1002/nla.70118 
+    display: 
   bibtex:  |
-      @misc{benedusi2026analysiseigenvalueclusteringleads,
-        title={Analysis of eigenvalue clustering leads to optimal scaling in numerical radiative transfer}, 
-        author={Pietro Benedusi and Simone Riva and Luca Belluzzi and Stefano Serra-Capizzano},
-        year={2026},
-        eprint={2602.21958},
-        archivePrefix={arXiv},
-        primaryClass={math.NA},
-        url={https://arxiv.org/abs/2602.21958} 
+      @article{benedusi2026analysis,
+        author = {Benedusi, Pietro and Riva, Simone and Belluzzi, Luca and Serra-Capizzano, Stefano},
+        title = {Analysis of Eigenvalue Clustering Leads to Optimal Scaling in Numerical Radiative Transfer},
+        journal = {Numerical Linear Algebra with Applications},
+        volume = {33},
+        number = {5},
+        pages = {e70118},
+        doi = {https://doi.org/10.1002/nla.70118},
+        url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/nla.70118},
+        eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/nla.70118},
+        year = {2026}
       }
+
+
 
 - title: "3D radiative transfer modeling of scattering polarization with partial frequency redistribution. I. Verification and disk-center results for the solar Ca I 4227 Å line"
   year: 2025
