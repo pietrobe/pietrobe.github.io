@@ -1,22 +1,25 @@
-- title: "TODO"
+- title: "Multi-GPU Acceleration of Interface Problems in FEniCS, with Application to Cardiac Modeling"
   year: 2026
   type: preprint
-  label: SrI
+  label: CUDA-FEniCS
   image: 
   description: 
-  authors: S. Riva et al
+  authors: E. Centofanti et al
   link_pre: 
-    url: 
+    url: https://arxiv.org/abs/2611.03181
     display: In progress.
   link_main:
     url: 
-    display: Astronomy & Astrophysics
+    display: 
   bibtex: |
-      @unpublished{Riva2026crd,
-        author = {Riva, Simone and Janett, Gioele and Belluzzi, Luca and Zeuner, Franziska and Riva, Fabio and Benedusi, Pietro},
-        title  = {Validity of the {CRD} limit for modeling scattering polarization in the photospheric {Sr I} 4607 {\AA} line},
-        note   = {Preprint},
-        year   = {2026}
+      @misc{centofanti2026multigpuaccelerationinterfaceproblems,
+        title={Multi-GPU Acceleration of Interface Problems in FEniCS, with Application to Cardiac Modeling}, 
+        author={Edoardo Centofanti and Benjamin Pachev and Joshua Steyer and James D. Trotter and Pietro Benedusi},
+        year={2026},
+        eprint={2611.03181},
+        archivePrefix={arXiv},
+        primaryClass={math.NA},
+        url={https://arxiv.org/abs/2611.03181} 
       }
 
 - title: "Validity of the CRD limit for modeling scattering polarization in the photospheric Sr I 4607 Å line"
