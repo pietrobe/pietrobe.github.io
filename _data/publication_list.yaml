@@ -1,4 +1,4 @@
-- title: "Validity of the CRD limit for modeling scattering polarization in the photospheric Sr I 4607 Å line"
+- title: "TODO"
   year: 2026
   type: preprint
   label: SrI
@@ -17,6 +17,28 @@
         title  = {Validity of the {CRD} limit for modeling scattering polarization in the photospheric {Sr I} 4607 {\AA} line},
         note   = {Preprint},
         year   = {2026}
+      }
+
+- title: "Validity of the CRD limit for modeling scattering polarization in the photospheric Sr I 4607 Å line"
+  year: 2026
+  type: journal
+  label: SrI
+  image: 
+  description: 
+  authors: S. Riva et al
+  link_main:
+    url: https://www.aanda.org/articles/aa/pdf/2026/10/aa62298-26.pdf
+    display: Astronomy & Astrophysics
+  bibtex: |
+      @article{ refId0,
+        author = {{Riva, Simone} and {Janett, Gioele} and {Zeuner, Franziska} and {Belluzzi, Luca} and {Riva, Fabio} and {Benedusi, Pietro}},
+        title = {Validity of the complete frequency redistribution limit for modeling scattering polarization in the photospheric Sr I 4607 Å line},
+	      DOI= "10.1051/0004-6361/202662298",
+	      url= "https://doi.org/10.1051/0004-6361/202662298",
+	      journal = {A&A},
+	      year = 2026,
+	      volume = 714,
+	      pages = "A494"
       }
 
 
