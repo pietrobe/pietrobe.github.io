@@ -33,14 +33,14 @@
   bibtex: |
       @article{benedusi20263D,
         author = {{Benedusi, Pietro} and {Riva, Simone} and {del Pino Alemán, Tanausú} and {Janett, Gioele} and {Riva, Fabio} and {Štěpán, Jiří} and {Krause, Rolf} and {Trujillo Bueno, Javier} and {Belluzzi, Luca}},
-        title = {3D radiative transfer modeling of scattering polarization with partial frequency redistribution - I. Verification and disk-center results for the solar Ca I line at 4227 Å},
+        title = {{3D radiative transfer modeling of scattering polarization with partial frequency redistribution - I. Verification and disk-center results for the solar Ca I line at 4227 Å}},
         DOI= "10.1051/0004-6361/202555970",
         url= "https://doi.org/10.1051/0004-6361/202555970",
         journal = {A&A},
         year = 2026,
         volume = 715,
         pages = "A83"
-    }
+      }
 
 
 - title: "Analysis of eigenvalue clustering leads to optimal scaling in numerical radiative transfer"
