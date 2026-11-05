@@ -13,7 +13,7 @@
     display: 
   bibtex: |
       @misc{centofanti2026multigpuaccelerationinterfaceproblems,
-        title={Multi-GPU Acceleration of Interface Problems in FEniCS, with Application to Cardiac Modeling}, 
+        title={{Multi-GPU Acceleration of Interface Problems in FEniCS, with Application to Cardiac Modeling}}, 
         author={Edoardo Centofanti and Benjamin Pachev and Joshua Steyer and James D. Trotter and Pietro Benedusi},
         year={2026},
         eprint={2611.03181},
@@ -35,7 +35,7 @@
   bibtex: |
       @article{riva2026validity,
         author = {{Riva, Simone} and {Janett, Gioele} and {Zeuner, Franziska} and {Belluzzi, Luca} and {Riva, Fabio} and {Benedusi, Pietro}},
-        title = {Validity of the complete frequency redistribution limit for modeling scattering polarization in the photospheric Sr I 4607 Å line},
+        title = {{Validity of the complete frequency redistribution limit for modeling scattering polarization in the photospheric Sr I 4607 Å line}},
         DOI= "10.1051/0004-6361/202662298",
         url= "https://doi.org/10.1051/0004-6361/202662298",
         journal = {A&A},
